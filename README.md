@@ -8,10 +8,10 @@
 
 <div align='center'>
 
-![GitHub issues](https://img.shields.io/github/issues/gezielelyon/headphones_landpage)
-![GitHub forks](https://img.shields.io/github/forks/gezielelyon/headphones_landpage)
-![GitHub starts](https://img.shields.io/github/stars/gezielelyon/headphones_landpage)
-![GitHub license](https://img.shields.io/github/license/gezielelyon/headphones_landpage)
+[![GitHub issues](https://img.shields.io/github/issues/gezielelyon/headphones-landpage)](https://github.com/gezielelyon/headphones-landpage/issues)
+[![GitHub forks](https://img.shields.io/github/forks/gezielelyon/headphones-landpage)](https://github.com/gezielelyon/headphones-landpage/network)
+[![GitHub stars](https://img.shields.io/github/stars/gezielelyon/headphones-landpage)](https://github.com/gezielelyon/headphones-landpage/stargazers)
+[![GitHub license](https://img.shields.io/github/license/gezielelyon/headphones-landpage)](https://github.com/gezielelyon/headphones-landpage)
 ![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
 ![HTML](https://img.shields.io/badge/HTML-Hypertext-red)
 ![CSS](https://img.shields.io/badge/CSS-Styles-pink)
